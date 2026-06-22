@@ -14,4 +14,4 @@ Sou um desenvolvedor focado em **Backend**, atualmente residente no programa **T
 
 ### 📫 Como me encontrar:
 - [LinkedIn](www.linkedin.com/in/wesleyrmoura)
-- Email: [wesley03moura@gmail.com]
+- Email: wesley03moura@gmail.com
