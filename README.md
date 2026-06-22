@@ -1,4 +1,4 @@
-# Olá, eu sou o Leo! 👋
+# Olá, eu sou o Wesley, mas muitos me conhecem pelo segundo nome, Leo. Prazer! 👋
 
 Sou um desenvolvedor focado em **Backend**, atualmente residente no programa **TIC 55** e estudante de Análise e Desenvolvimento de Sistemas (TADS) no IFRS.
 
