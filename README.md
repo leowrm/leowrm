@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Leo! 👋
 
-<!--
-**leowrm/leowrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor focado em **Backend**, atualmente residente no programa **TIC 55** e estudante de Análise e Desenvolvimento de Sistemas (TADS) no IFRS.
 
-Here are some ideas to get you started:
+### 🔭 O que estou fazendo agora:
+- Arquitetando e desenvolvendo um sistema de gestão automatizada para uma ONG.
+- Integrando interfaces web com chatbots para WhatsApp.
+- Aprofundando meus conhecimentos na stack de dados e backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias e Ferramentas:
+- **Linguagens:** Python, Java, C
+- **Banco de Dados & ORMs:** PostgreSQL, SQLite
+- **Controle de Versão:** Git & GitHub
+
+### 📫 Como me encontrar:
+- [LinkedIn](www.linkedin.com/in/wesleyrmoura)
+- Email: [wesley03moura@gmail.com]
