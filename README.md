@@ -1,4 +1,4 @@
-# Olá, eu sou o Wesley. Prazer! 👋
+# Olá, eu sou o Wesley 👋
 
 Sou um desenvolvedor focado em **Backend**, atualmente residente no programa **TIC 55** e estudante de Análise e Desenvolvimento de Sistemas (TADS) no IFRS.
 
