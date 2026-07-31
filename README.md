@@ -1,38 +1,33 @@
-<div align="center">
-
-<h1>👋 Olá, eu sou o Wesley!</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Desenvolvedor+Backend;Estudante+de+TADS+no+IFRS;Residente+no+programa+TIC+55" />
-
-</div>
+# 👋 Olá, eu sou o Wesley!
 
 ---
-
-<div align="center">
 
 ## 🚀 Sobre mim
 
-💻 Desenvolvedor **Backend** focado em **Python, Java e C** 🎓 Estudante de Análise e Desenvolvimento de Sistemas no **IFRS** 🧩 Residente no programa **TIC 55**
+💻 Desenvolvedor **Backend** focado em **Python, Java e C** 🎓 Estudante de Análise e Desenvolvimento de Sistemas no **IFRS**
 
 Atualmente arquitetando um sistema de gestão automatizada para uma ONG e integrando interfaces web com chatbots para WhatsApp. Estou sempre aprofundando meus conhecimentos em stack de dados e backend.
 
-</div>
+## 🧩 Residências e Programas
+
+- 🧩 **TIC 55**
+- 🧩 **Dev Fullstack 5.0**
 
 ---
-
-<div align="center">
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,java,c,postgres,sqlite,git,github" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,postgres,git,github" />
 
 </div>
 
 ---
 
-<div align="center">
-
 ## 🔥 GitHub Streak
+
+<div align="center">
 
 <img src="./profile/streak.svg" alt="GitHub Streak" />
 
@@ -40,9 +35,9 @@ Atualmente arquitetando um sistema de gestão automatizada para uma ONG e integr
 
 ---
 
-<div align="center">
-
 ## 📌 Projetos em destaque
+
+<div align="center">
 
 <img src="./profile/pin-compara-estruturas.svg" alt="compara-estruturas" />
 <img src="./profile/pin-verificador-fraude.svg" alt="verificador-fraude" />
@@ -51,10 +46,6 @@ Atualmente arquitetando um sistema de gestão automatizada para uma ONG e integr
 
 ---
 
-<div align="center">
-
 ## 📫 Como me encontrar
 
-<a href="https://www.linkedin.com/in/wesley-moura-6a46311b3">LinkedIn</a> · <a href="mailto:wesley03moura@gmail.com">wesley03moura@gmail.com</a>
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/wesley-moura-6a46311b3) · [wesley03moura@gmail.com](mailto:wesley03moura@gmail.com)
