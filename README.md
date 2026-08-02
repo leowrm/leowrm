@@ -10,8 +10,8 @@ Atualmente arquitetando um sistema de gestão automatizada para uma ONG e integr
 
 ## Residências e Programas
 
-- TIC 55 (Instituto Brisa)
-- Dev Fullstack 5.0 (Instituto Eldorado)
+- [TIC 55 (Unisinos)](https://residenciaemtic.unisinos.br/)
+- [Dev Fullstack 5.0 (Instituto Eldorado)](https://informativo.eldorado.org.br/residencia-full-stack)
 
 <img src="https://img.shields.io/badge/-8B5CF6?style=flat-square" height="4" width="100%" />
 
